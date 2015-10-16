@@ -1,0 +1,8 @@
+echo "gethostname(2) : `./hostname-game`"
+echo "hostname       : `hostname`"
+echo "hostname -s    : `hostname -s`"
+echo "hostname -f    : `hostname -f`"
+echo "domainname     : `domainname`"
+echo "ypdomainname   : `ypdomainname`"
+echo "nisdomainname  : `nisdomainname`"
+echo "dnsdomainname  : `dnsdomainname`"
